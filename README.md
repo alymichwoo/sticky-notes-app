@@ -1,2 +1,2 @@
-# sticky-note-ui
+# sticky-note-app
 Created with CodeSandbox
